@@ -26,4 +26,5 @@
  */
 export function calculateGrade(score, hasExtraCredit) {
   // Your code here
+  
 }
